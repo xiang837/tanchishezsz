@@ -1,0 +1,3 @@
+Borderless:80
+Classic_Box:18
+Trail_Station:6
